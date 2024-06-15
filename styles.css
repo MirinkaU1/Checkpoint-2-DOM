@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#color-box {
+    height: 100px;
+    width: 100px;
+    margin-inline: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background: black;
+    border-radius: 10px;
+}
+
+#change-color-btn {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background: gray;
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+
+}
+
+#change-color-btn:hover {
+    background: rgb(99, 99, 99);
+}
